@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFfG7i1VS1M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prath\\Downloads\\PdfAssist\\SemanticPDFAssistant\\SemanticPDFAssistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prath\\.nuget\\packages\\pdfpig\\0.1.16\\pdfpig.0.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

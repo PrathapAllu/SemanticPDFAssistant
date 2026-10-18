@@ -1,0 +1,6 @@
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.csproj.AssemblyReference.cache
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.AssemblyInfoInputs.cache
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.AssemblyInfo.cs
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.csproj.CoreCompileInputs.cache
+C:\Users\prath\Downloads\PdfAssist\SemanticPDFAssistant\obj\Debug\net10.0\SemanticPDFAssistant.sourcelink.json
